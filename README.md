@@ -12,11 +12,15 @@ I am a university lecturer with a passion for teaching and learning. My teaching
 
 ## Research Interests
 
-My main research interest in use of Applied Statistics and Machine learning in biological, medical and financial data.
+My main research interest is in the use of Applied Statistics and Machine learning in biological, medical and financial data.
 
+- Interdisciplinary Statistical Applications
+- Predictive Modelling and Data Visualization in High-Dimensional Data
+- Advancing Biomedical Insights
+- Applications of Machine Learning in Biomedical Studies
 - Exploring Finance and Economics
 - Solving Environmental Challenges
-- Advancing Biomedical Insights
+  
 
 ## Courses Taught
 
